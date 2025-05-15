@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=offavkash98&label=Profile%20views&color=0e75b6&style=flat" alt="offavkash98" /> </p>
 
-- 🔭 I’m currently working on [NLP Project Text Summarise](https://github.com/offavkash98/Text-Summarizer-NLP-Project)
+- 🔭 I’m currently working on [Book Recommender System](https://github.com/offavkash98/Book-Recommender-System-using-Collaborative-Filtering)
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,NLP**
 
